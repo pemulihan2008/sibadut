@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/pemulihan2008/sibadut/blob/v16.5/image/lol.jpg" alt="DITZ BOT" width="100"/>
+<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
