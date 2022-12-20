@@ -40,7 +40,7 @@
 - [Priview bot feature](#fitur-bot-preview)
 - [Deploy to heroku](#how-to-deploy)
 - [Donate](#donate)
-- [Alphabot group](#official-group)
+- [Ditz Botz group](#official-group)
 - [Thanks to](#thanks-to)
 
 ---
