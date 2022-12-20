@@ -217,7 +217,7 @@ global.rpg = {
 - [Paypal](https://paypal.me/zeeoneofc)
 
 # Official Group
-<a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FE6mh8kzELUKKR3Axhw8Lg"><img src="https://img.shields.io/badge/Ditz Botz Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
