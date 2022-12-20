@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/pemulihan2008/sibadut/blob/v16.5/image/lol_1.jpg" alt="DITZ BOTZ" width="100"/>
+<img src="https://github.com/pemulihan2008/Ravy/blob/v15/image/lol_1.jpg" alt="DITZ BOTZ" width="100"/>
 
 
 </p>
