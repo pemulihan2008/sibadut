@@ -2,5 +2,5 @@
 Support channel Ditz Maker
 
 
-Yang jual sc ini anak haram
+Yang jual sc ini anak yatim piatu
 */
