@@ -29,9 +29,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Ditz Botz" //namabot kalian
 global.ownername= "Ditzz" //nama kalian
-global.tiktok ="https://www.tiktok.com/@adit.offlclal" //bebas asal jan hapus
+global.myweb ="Save Ya :)" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCRJNLP1ko2rx0j9YxKEJ8Ew" //bebas asal jan hapus
-global.instagram = "https://www.instagram.com/aditya.farabi_2008" //bebas
+global.myweb2 = "https://www.tiktok.com/@adit.offlclal" //bebas
 global.email = "Ditzz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
