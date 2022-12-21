@@ -1,6 +1,0 @@
-/*
-Support channel Ditz Maker
-
-
-Yang jual sc ini anak yatim piatu
-*/
